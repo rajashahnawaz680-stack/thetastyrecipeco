@@ -195,6 +195,7 @@ article.post h1{font-size:2.4rem;line-height:1.2;margin:0 0 14px}
 .byline .when{font-size:.86rem;color:var(--muted)}
 .post-hero{border-radius:18px;box-shadow:var(--shadow);margin:0 0 8px;width:100%;object-fit:cover;aspect-ratio:3/2}
 .post figure{margin:0 0 28px}
+.post figure img{max-width:560px;margin:0 auto;border-radius:14px;box-shadow:var(--shadow)}
 .post figcaption{font-size:.86rem;color:var(--muted);margin-top:10px}
 article.post h2{margin-top:36px;font-size:1.6rem}
 article.post p{color:#4a3b2e}
