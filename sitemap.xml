@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://thetastyrecipeco.vercel.app/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://thetastyrecipeco.vercel.app/recipes.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/recipes.html</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/posts/easy-christmas-appetizers-for-a-crowd.html</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/posts/christmas-cookie-recipes.html</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/posts/no-bake-christmas-desserts-for-a-crowd.html</loc><lastmod>2026-11-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -14,9 +14,12 @@
   <url><loc>https://thetastyrecipeco.vercel.app/posts/make-ahead-christmas-appetizers.html</loc><lastmod>2026-11-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/posts/christmas-pie-recipes.html</loc><lastmod>2026-11-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/posts/new-years-eve-dinner-ideas.html</loc><lastmod>2026-11-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://thetastyrecipeco.vercel.app/categories/lunch-dinner.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/posts/easy-christmas-crockpot-recipes.html</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/posts/crockpot-christmas-appetizers-for-parties.html</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/posts/slow-cooker-christmas-dinner-ideas.html</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/categories/lunch-dinner.html</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/categories/desserts-baking.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://thetastyrecipeco.vercel.app/categories/appetizers-snacks.html</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/categories/appetizers-snacks.html</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/categories/healthy-recipes.html</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/categories/air-fryer-recipes.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/categories/breakfast-brunch.html</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -28,5 +31,5 @@
   <url><loc>https://thetastyrecipeco.vercel.app/disclaimer.html</loc><lastmod>2026-11-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/editorial-policy.html</loc><lastmod>2026-11-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://thetastyrecipeco.vercel.app/affiliate-disclosure.html</loc><lastmod>2026-11-19</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://thetastyrecipeco.vercel.app/sitemap.html</loc><lastmod>2026-11-21</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://thetastyrecipeco.vercel.app/sitemap.html</loc><lastmod>2026-11-22</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>
