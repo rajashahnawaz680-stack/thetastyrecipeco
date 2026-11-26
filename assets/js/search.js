@@ -18,6 +18,8 @@
     { t: '25+ Easy Christmas Crockpot Recipes', c: 'Lunch & Dinner', u: 'posts/easy-christmas-crockpot-recipes.html', d: '25+ easy Christmas crockpot recipes — slow cooker mains, soups, sides and desserts for a hands-off holiday table.' },
     { t: '20+ Crockpot Christmas Appetizers for Parties', c: 'Appetizers & Snacks', u: 'posts/crockpot-christmas-appetizers-for-parties.html', d: '20+ crockpot Christmas appetizers for parties — slow cooker dips, sliders, wings and bites that stay warm all night.' },
     { t: '25+ Slow Cooker Christmas Dinner Ideas', c: 'Lunch & Dinner', u: 'posts/slow-cooker-christmas-dinner-ideas.html', d: '25+ slow cooker Christmas dinner ideas — festive mains from lasagna and curry to chili and carnitas, all made hands-off.' },
+    { t: '15+ Easy Christmas Crockpot Meals for a Crowd', c: 'Lunch & Dinner', u: 'posts/easy-christmas-crockpot-meals-for-a-crowd.html', d: '15+ easy Christmas crockpot meals for a crowd — big-batch soups, pies, stews and mains that feed a full table.' },
+    { t: '25+ Christmas Salmon Recipes for a Festive Holiday Dinner', c: 'Lunch & Dinner', u: 'posts/christmas-salmon-recipes.html', d: '25+ Christmas salmon recipes for a festive holiday dinner — glazed, roasted, crusted and smoked salmon mains for Christmas Day.' },
     { t: 'All Recipes', c: 'Recipe archive', u: 'recipes.html', d: 'Browse every published roundup in one place.' },
     { t: 'Breakfast & Brunch', c: 'Recipe category', u: 'categories/breakfast-brunch.html', d: 'Browse roundups in this category.' },
     { t: 'Lunch & Dinner', c: 'Recipe category', u: 'categories/lunch-dinner.html', d: 'Browse roundups in this category.' },
