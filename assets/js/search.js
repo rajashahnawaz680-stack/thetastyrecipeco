@@ -20,6 +20,8 @@
     { t: '25+ Slow Cooker Christmas Dinner Ideas', c: 'Lunch & Dinner', u: 'posts/slow-cooker-christmas-dinner-ideas.html', d: '25+ slow cooker Christmas dinner ideas — festive mains from lasagna and curry to chili and carnitas, all made hands-off.' },
     { t: '15+ Easy Christmas Crockpot Meals for a Crowd', c: 'Lunch & Dinner', u: 'posts/easy-christmas-crockpot-meals-for-a-crowd.html', d: '15+ easy Christmas crockpot meals for a crowd — big-batch soups, pies, stews and mains that feed a full table.' },
     { t: '25+ Christmas Salmon Recipes for a Festive Holiday Dinner', c: 'Lunch & Dinner', u: 'posts/christmas-salmon-recipes.html', d: '25+ Christmas salmon recipes for a festive holiday dinner — glazed, roasted, crusted and smoked salmon mains for Christmas Day.' },
+    { t: '25+ Healthy Christmas Recipes for a Lighter Holiday Table', c: 'Healthy Recipes', u: 'posts/healthy-christmas-recipes.html', d: '25+ healthy Christmas recipes for a lighter holiday table — fresh salads, roasted vegetables, lean mains and light desserts.' },
+    { t: '25+ Christmas Cake Recipes for a Sweet Holiday Table', c: 'Desserts & Baking', u: 'posts/christmas-cake-recipes.html', d: '25+ Christmas cake recipes for a sweet holiday table — yule logs, layer cakes, bundts and pound cakes for Christmas Day.' },
     { t: 'All Recipes', c: 'Recipe archive', u: 'recipes.html', d: 'Browse every published roundup in one place.' },
     { t: 'Breakfast & Brunch', c: 'Recipe category', u: 'categories/breakfast-brunch.html', d: 'Browse roundups in this category.' },
     { t: 'Lunch & Dinner', c: 'Recipe category', u: 'categories/lunch-dinner.html', d: 'Browse roundups in this category.' },
