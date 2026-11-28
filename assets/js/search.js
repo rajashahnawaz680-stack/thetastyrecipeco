@@ -22,6 +22,8 @@
     { t: '25+ Christmas Salmon Recipes for a Festive Holiday Dinner', c: 'Lunch & Dinner', u: 'posts/christmas-salmon-recipes.html', d: '25+ Christmas salmon recipes for a festive holiday dinner — glazed, roasted, crusted and smoked salmon mains for Christmas Day.' },
     { t: '25+ Healthy Christmas Recipes for a Lighter Holiday Table', c: 'Healthy Recipes', u: 'posts/healthy-christmas-recipes.html', d: '25+ healthy Christmas recipes for a lighter holiday table — fresh salads, roasted vegetables, lean mains and light desserts.' },
     { t: '25+ Christmas Cake Recipes for a Sweet Holiday Table', c: 'Desserts & Baking', u: 'posts/christmas-cake-recipes.html', d: '25+ Christmas cake recipes for a sweet holiday table — yule logs, layer cakes, bundts and pound cakes for Christmas Day.' },
+    { t: '20+ Air Fryer Christmas Desserts for a Sweet Holiday Treat', c: 'Air Fryer Recipes', u: 'posts/air-fryer-christmas-desserts.html', d: '20+ air fryer Christmas desserts for a sweet holiday treat — churros, fritters, brownies and blondies, all crisp in the air fryer.' },
+    { t: '25+ Christmas Brunch Recipes for a Festive Holiday Morning', c: 'Breakfast & Brunch', u: 'posts/christmas-brunch-recipes.html', d: '25+ Christmas brunch recipes for a festive holiday morning — benedicts, stratas, pancakes and pastries for a slow Christmas morning.' },
     { t: 'All Recipes', c: 'Recipe archive', u: 'recipes.html', d: 'Browse every published roundup in one place.' },
     { t: 'Breakfast & Brunch', c: 'Recipe category', u: 'categories/breakfast-brunch.html', d: 'Browse roundups in this category.' },
     { t: 'Lunch & Dinner', c: 'Recipe category', u: 'categories/lunch-dinner.html', d: 'Browse roundups in this category.' },
